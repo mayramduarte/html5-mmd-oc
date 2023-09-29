@@ -10,7 +10,7 @@
 
 <p>Estrutura de uma página Web | Tags básicas do HTML | Listas no HTML | Div e Span | Atributos HTML | Tabelas | Formulários | Elementos Semânticos</p>
 
-<h2>Project (Projeto)</h2>
+<h2>Projects (Projetos)</h2>
 
 <p><a href="https://mayramduarte.github.io/html5-mmd-oc/24-exercicio-criando-um-site-completo/ex005" target="_blank">Exercise-005 (Exercício-005)</a></p>
 
