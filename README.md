@@ -1,6 +1,6 @@
 # html5-mmd-oc
 
-<h1>Course HTML5 - Curso OneBitCode - Leonardo Scorza</h1>
+<h1>Course - HTML5 - Curso OneBitCode - Leonardo Scorza</h1>
 
 <h2>Topics (Conteúdo)</h2>
 
